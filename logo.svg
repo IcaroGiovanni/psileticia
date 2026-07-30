@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 82" role="img" aria-labelledby="title desc">
+  <title id="title">Psi. Leticia Garcia - Psicologia Clínica</title>
+  <desc id="desc">Logotipo oficial de Psi. Leticia Garcia em tom rosa, preto e branco.</desc>
+
+  <!-- Símbolo da Psicologia Stylized -->
+  <circle cx="38" cy="41" r="28" fill="#FFF0F5" stroke="#F6C1D1" stroke-width="1.5"/>
+  <path d="M24 31c0 8 8 12 14 12s14-4 14-12" fill="none" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M38 18v26" fill="none" stroke="#111111" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="38" cy="18" r="2.5" fill="#E48AA8"/>
+
+  <!-- Nome e Marca -->
+  <text x="82" y="38" font-family="'Plus Jakarta Sans', 'Inter', Arial, sans-serif" font-size="21" font-weight="800" letter-spacing="1.2" fill="#111111">PSI. LETICIA GARCIA</text>
+  <text x="83" y="60" font-family="'Inter', Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="2.5" fill="#E48AA8">PSICOLOGIA CLÍNICA</text>
+</svg>
